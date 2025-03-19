@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231347899977",
+    "project_id": "green-guide-a6d75",
+    "storage_bucket": "green-guide-a6d75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231347899977:android:575436a33662dc157eb998",
+        "android_client_info": {
+          "package_name": "com.example.green_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBqMO3CwKUQSlxCCdIBFNsdqMI2wAVzyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
